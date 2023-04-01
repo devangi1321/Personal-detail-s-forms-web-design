@@ -1,0 +1,19 @@
+body
+{
+	background-color:rgb(235, 184, 193);
+font-style: Times New Roman;
+
+}
+h1{
+color:maroon;
+font-style: Times New Roman;
+
+}
+.button{
+color: grey;
+}
+hr{
+    border-top: 30px solid rgb(107, 18, 18);
+    
+}
+
