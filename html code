@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>FORMe</title>
+	</head>
+	<body>
+        <p>
+        <hr>
+		<H1>PERSONAL DETAILS</H1>
+        <strong>Personal details are asked for the game policy purposes it won't be saved</STRONG>
+        <br>
+	<button>Don't ask again</button>
+    <button>OK</button>
+    <h2>choose the following options</h2>
+    <strong>All questions are mandatory</strong>
+    <h3>1)Name</h3>
+    <p><b>First name</b></p><input type="text"; placeholder="ex.rohan">
+    <p><b>Middle name</b></p><input type="text" placeholder="">
+    <p><b>Last name</b></p><input type="text" placeholder="">
+    <h3>2)Gender :</h3>
+   <button>Male</button>
+   <button>Female</button>
+   <button>Other</button>
+   <h3>3)Age</h3>
+   <button>Between 15 and 20</BUTTON>
+   <button>Between 30 and 40</button>
+   <button>Above</button>
+   <h3>4)Date of birth </h3>
+  <input type="date" placeholder="date">
+<h3>5) Country</h3>
+<label for="Countries">Choose a countries</label>
+<select name="country" id="country">
+    <option>India</option>
+    <option>US</option>
+ <option>Africa</option>
+ <option>Japan</option>
+ <option>Chile</option>
+ <option>France</option>
+ </select>
+ <br>
+ <br>
+ <h3>6) Highest qualification</h3>
+ School<input type="checkbox">
+ <br>
+ Highschool<input type="checkbox">
+ <br>
+ Diploma<input type="checkbox">
+ <br>
+ Undergraduate<input type="checkbox">
+ <br>
+ Postgraduate<input type="checkbox">
+ <br>
+ Phd<input type="checkbox">
+ <h3>7) Contact number</h3>
+ <input type="text" placeholder="9866 xxxxxx">
+ <h3>8) Address</h3>
+ <input type="text">
+ <br>
+ <br>
+ <button>Submit</button>
+ <h3>Thankyou ! for filling the details
+</h3>
+</p>
+    </body>
+</html>
